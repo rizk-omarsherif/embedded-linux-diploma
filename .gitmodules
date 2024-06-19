@@ -1,0 +1,3 @@
+[submodule "01_python"]
+	path = 01_python
+	url = git@github.com:rizk-omarsherif/python-tasks.git
