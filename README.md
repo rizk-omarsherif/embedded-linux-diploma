@@ -14,7 +14,7 @@ Welcome to the Embedded Linux Diploma repository! This repository contains submo
 
 ## Submodules
 
-### [01_python](01_python)
+### [01_python](01_python @ 47df562)
 
 A collection of Python programming tasks and exercises completed as part of the Embedded Linux Diploma under the supervision of [Eng. Moatasem Elsayed](https://www.linkedin.com/in/moatasem-el-sayed/)
 
